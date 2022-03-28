@@ -21,7 +21,7 @@ home_button = [
 
 
 start_button = [
-    [InlineKeyboardButton("🏅 GitHub 🏅", url="github.com/m4mallu/clonebot"),
+    [InlineKeyboardButton("🏅 GitHub 🏅", url="github.com/yourzeo/clonebot"),
      InlineKeyboardButton("⚙️Settings ⚙", "start_btn")]
 ]
 
@@ -49,7 +49,7 @@ finished_button = [
 
 
 terminate_btn = [
-    [InlineKeyboardButton("🧸 Updates", url="https://github.com/m4mallu/clonebot-ui"),
+    [InlineKeyboardButton("🧸 Updates", url="https://github.com/yourzeo/clonebot"),
      InlineKeyboardButton("❓ Usage", url="https://telegra.ph/Clonebot-UI-Help-05-30")],
     [InlineKeyboardButton("🚫 Terminate", "terminate_btn"),
      InlineKeyboardButton("🏠 Home", "start_btn")]
